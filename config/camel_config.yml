@@ -1,0 +1,9 @@
+development:
+  mqtt:
+    end_point: 127.0.0.1
+    port: 1883
+
+test:
+  mqtt:
+    end_point: 127.0.0.1
+    port: 1883

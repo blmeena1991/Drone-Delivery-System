@@ -1,0 +1,4 @@
+** Invoke mqtt_start:connect_to_mqtt (first_time)
+** Invoke environment (first_time)
+** Execute environment
+** Execute mqtt_start:connect_to_mqtt
